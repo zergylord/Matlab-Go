@@ -1,0 +1,7 @@
+###############
+#Go for Matlab#
+###############
+
+# Gameboard7.m is version 7 of our implementation of Go in matlab. It has a full guid which takes advantage of the matlab hand class.
+# Game options include different board sizes and human v ai, human v human and ai v ai game modes.
+# Player.m is a simple Monte Carlo ai that maybe paired with Gameboard7 to play against people or other ai's
